@@ -181,8 +181,8 @@ A tracker for logging and analyzing Data Structures & Algorithms practice.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Praveen10123e&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen10123e&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Praveen10123e&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Praveen10123e&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=Praveen10123e&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
